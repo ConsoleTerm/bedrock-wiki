@@ -26,7 +26,7 @@ If yes, this tutorial will be useful for you.
 
  [tick.json explanation](/commands/mcfunction.html#creating-tick-json)
 
- <CodeHeader>BP/functions/my_greeting_message.json</CodeHeader>
+ <CodeHeader>BP/functions/tick.json</CodeHeader>
 
 ```json
 {
